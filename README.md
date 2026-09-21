@@ -7,15 +7,17 @@
 覆盖长寿与防病、意外与急救、省钱与理财、防骗与法律红线、失业兜底、创业风险、做平台与合规、恋爱婚育、出国与技能。<br>
 498 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件。
 
-[![在线检索](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%A3%80%E7%B4%A2-%E7%82%B9%E8%BF%99%E9%87%8C%E6%89%93%E5%BC%80-3451b2?style=flat-square)](https://eternity4719.github.io/HowToLiveBetter/)
+[![在线检索](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%A3%80%E7%B4%A2-%E7%82%B9%E8%BF%99%E9%87%8C%E6%89%93%E5%BC%80-3451b2?style=flat-square)](https://zhangjh024.github.io/HowToLiveBetter/)
 [![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-498%20%E6%9D%A1-18794e?style=flat-square)](#目录)
 [![证据分级](https://img.shields.io/badge/%E8%AF%81%E6%8D%AE%E5%88%86%E7%BA%A7-A%20323%20%C2%B7%20B%20126%20%C2%B7%20C%2049-915930?style=flat-square)](#证据分级)
 [![原始文献](https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E6%96%87%E7%8C%AE-891%20%E6%9D%A1%E9%93%BE%E6%8E%A5-565a5f?style=flat-square)](docs/核实记录/)
 [![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-Unlicense-565a5f?style=flat-square)](LICENSE)
 
-**[打开在线检索页](https://eternity4719.github.io/HowToLiveBetter/)** · [目录](#目录) · [术语表](#读懂数字术语表) · [核实记录](docs/核实记录/) · [结婚划不划算（长文）](docs/结婚划不划算.md) · [家庭应急装备清单（长文）](docs/家庭应急装备清单.md) · [遇到陌生人出事该不该停（长文）](docs/遇到陌生人出事该不该停.md) · [做平台要办哪些证（长文）](docs/做平台要办哪些证.md)
+**[打开在线检索页](https://zhangjh024.github.io/HowToLiveBetter/)** · [目录](#目录) · [术语表](#读懂数字术语表) · [核实记录](docs/核实记录/) · [结婚划不划算（长文）](docs/结婚划不划算.md) · [家庭应急装备清单（长文）](docs/家庭应急装备清单.md) · [遇到陌生人出事该不该停（长文）](docs/遇到陌生人出事该不该停.md) · [做平台要办哪些证（长文）](docs/做平台要办哪些证.md)
 
 </div>
+
+本站由 [zhangjh024](https://github.com/zhangjh024) 维护，基于 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) 分叉，保留原项目的 Unlicense 许可。新增自己的条目或长文，见 [内容维护与发布说明](docs/维护本站.md)。
 
 ---
 
@@ -59,7 +61,7 @@
 
 ## 怎么读
 
-- **想按条件筛**：打开[在线检索页](https://eternity4719.github.io/HowToLiveBetter/)，可以按关键词、章节、证据等级，以及「花不花钱、花多少时间、要不要毅力」三个成本维度组合筛选。数据直接读 book/ 下的正文，改正文即改检索页。
+- **想按条件筛**：打开[在线检索页](https://zhangjh024.github.io/HowToLiveBetter/)，可以按关键词、章节、证据等级，以及「花不花钱、花多少时间、要不要毅力」三个成本维度组合筛选。数据直接读 book/ 下的正文，改正文即改检索页。
 - **想按顺序读**：每节内的条目按性价比从高到低排列，从每节前几条开始看就行。
 - **看不懂那串数字**：每条都有一行「说人话」，把「收益」栏里的风险比、置信区间翻成「同期死亡的概率低约两成」「拘留几日、罚多少钱」这类日常说法，只用原文已有的事实，不引入新数字。只看这一行就够做决定；「收益」栏保留全部原始数字和置信区间，供你自己核。
 - **只想看结论最硬的**：在检索页里勾选证据等级 A，只留下有具体数字、来自荟萃分析或大型试验的 323 条。
@@ -213,4 +215,4 @@
 
 ## 正文
 
-正文按节拆成 30 个文件放在 [book/](book/)，点上面目录里的节名进入。拆开是因为单文件已经超过 GitHub 渲染 Markdown 的 512 KB 上限，后面的节显示不出来；[在线检索页](https://eternity4719.github.io/HowToLiveBetter/)会把这些文件合起来读，用法不变。
+正文按节拆成 30 个文件放在 [book/](book/)，点上面目录里的节名进入。拆开是因为单文件已经超过 GitHub 渲染 Markdown 的 512 KB 上限，后面的节显示不出来；[在线检索页](https://zhangjh024.github.io/HowToLiveBetter/)会把这些文件合起来读，用法不变。
