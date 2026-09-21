@@ -19,6 +19,8 @@
 
 本站由 [zhangjh024](https://github.com/zhangjh024) 维护，基于 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) 分叉，保留原项目的 Unlicense 许可。新增自己的条目或长文，见 [内容维护与发布说明](docs/维护本站.md)。
 
+**个人体会**：[第一 · 工作、精力与弱关系](https://zhangjh024.github.io/HowToLiveBetter/personal.html?article=first) · [Markdown 正文](docs/个人体会/第一.md)
+
 ---
 
 ## 这本书想回答的问题
