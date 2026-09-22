@@ -21,6 +21,8 @@
 
 **个人体会**：[第一 · 工作、精力与弱关系](https://zhangjh024.github.io/HowToLiveBetter/personal.html?article=first) · [Markdown 正文](docs/个人体会/第一.md)
 
+[整理面试题1 · AI、全栈与前端面试题](https://zhangjh024.github.io/HowToLiveBetter/personal.html?article=interview-questions-1) · [Markdown 正文](docs/个人体会/整理面试题1.md)
+
 ---
 
 ## 这本书想回答的问题

@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zhangjh024.github.io/HowToLiveBetter/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://zhangjh024.github.io/HowToLiveBetter/README.md</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://zhangjh024.github.io/HowToLiveBetter/personal.html?article=first</loc>
     <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zhangjh024.github.io/HowToLiveBetter/personal.html?article=interview-questions-1</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
